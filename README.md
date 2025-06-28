@@ -11,3 +11,5 @@ created by: https://github.com/meeow
 
 You can visit this repository:
 * https://github.com/pointbiz/bitaddress.org.git
+
+There is no compulsion in using this system, the publisher is not responsible if there is an error in the damage of the programme or the negligence of the user of the programme. all returned to the user's own awareness.
